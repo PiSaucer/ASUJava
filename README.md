@@ -1,5 +1,7 @@
 # ASUJava
 
+[Check out the documentation](docs/)
+
 # Copyright
 
 ```
