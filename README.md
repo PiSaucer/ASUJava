@@ -1,4 +1,4 @@
-# ASUJava
+# Angelo State University Java Projects
 
 [Check out the documentation](docs/)
 
