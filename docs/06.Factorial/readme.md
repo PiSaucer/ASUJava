@@ -1,0 +1,41 @@
+## Java Project: Factorial
+
+**Description:** Computes the factorial of a given integer in two ways: iterative (with a loop) and recurively (self-referencing method).
+
+## Type in code:
+```java
+package asu.factorial;
+
+public class Factorial {
+
+    public static void main(String[] args) {
+        int n = 10;
+        int factorial = 1;
+        
+        //first way (without recursion)
+        for (int i = 1; i <= n; i++){
+            factorial = i * factorial;
+        }
+        
+        System.out.println(n + " factorial (iterative) = " + factorial);
+        
+        //second way (with recursion)
+        factorial = getFactorial(n);
+        
+        System.out.println(n + " factorial (recursive) = " + factorial);
+    }
+    
+    public static int getFactorial(int n){
+        if (n == 0) {
+            return 1;
+        } 
+        return n * getFactorial(n - 1);
+    }
+}
+```
+
+## Sample Ouput
+```txt
+10 factorial (iterative) = 3628800
+10 factorial (recursive) = 3628800
+```
