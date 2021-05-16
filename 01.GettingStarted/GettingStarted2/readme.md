@@ -1,8 +1,3 @@
----
-layout: default
-nav_exclude: true
----
-
 # GettingStarted2
 
 [Documentation](../../docs/01.GettingStarted/GettingStarted2/)

@@ -1,10 +1,3 @@
----
-layout: default
-title: Documentation
-nav_order: 2
-has_children: false
----
-
 # Documentation 
 
 ## Free Downloads
@@ -21,3 +14,4 @@ has_children: false
     - [GettingStarted2](01.GettingStarted/GettingStarted2/)
     - [GettingStarted3](01.GettingStarted/GettingStarted3/)
     - [GettingStarted4](01.GettingStarted/GettingStarted4/)
+- [02.PrintingIntegers](02.PrintingIntergers/)

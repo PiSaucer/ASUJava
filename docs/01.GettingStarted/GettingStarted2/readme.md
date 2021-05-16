@@ -1,11 +1,3 @@
----
-layout: default
-title: GettingStarted2
-parent: 01.GettingStarted
-nav_order: 2
-has_children: false
----
-
 # Java Project: GettingStarted2
 
 **Description:** Some simple exercises to get started in Java programming.

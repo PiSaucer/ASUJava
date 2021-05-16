@@ -1,11 +1,3 @@
----
-layout: default
-title: GettingStarted3
-parent: 01.GettingStarted
-nav_order: 3
-has_children: false
----
-
 # Java Project: GettingStarted3
 
 **Description:** GettingStarted3: This program prompts the user for a score (0 - 100) and then presents the associated letter grade.
