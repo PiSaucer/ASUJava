@@ -1,6 +1,6 @@
 # Java Project: GettingStarted1
 
-**Description** Some simple java exercises for getting accustomed to the Netbeans interface and simple java code.
+**Description:** Some simple java exercises for getting accustomed to the Netbeans interface and simple java code.
 
 **Create** a new Netbeans Project, name it **GettingStarted1**
 
