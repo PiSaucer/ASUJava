@@ -1,4 +1,4 @@
-## Java Project: Factorial
+# Java Project: Factorial
 
 **Description:** Computes the factorial of a given integer in two ways: iterative (with a loop) and recurively (self-referencing method).
 

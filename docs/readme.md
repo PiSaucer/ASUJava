@@ -19,3 +19,4 @@
 - [04.BinaryNumbers](04.BinaryNumbers/)
 - [05.ASCII](05.ASCII/)
 - [06.Factorial](06.Factorial/)
+- [07.MultiplicationTables](07.MultiplicationTables/)
