@@ -12,3 +12,4 @@
 - [01.GettingStarted](01.GettingStarted/)
     - [GettingStarted1](01.GettingStarted/GettingStarted1/)
     - [GettingStarted2](01.GettingStarted/GettingStarted2/)
+    - [GettingStarted3](01.GettingStarted/GettingStarted3/)
