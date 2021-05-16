@@ -29,7 +29,7 @@ public class GettingStarted2 {
 
 **When it's typed in, click the "Run" arrow**
 
-**Sample Output:**
+## Sample Output:
 
 ```txt
 area = 78.5
