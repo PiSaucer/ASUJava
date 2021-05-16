@@ -1,2 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 show_downloads: true
+
+theme: jekyll-theme-architect
