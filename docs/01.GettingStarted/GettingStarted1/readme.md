@@ -1,3 +1,11 @@
+---
+layout: default
+title: GettingStarted1
+parent: 01.GettingStarted
+nav_order: 1
+has_children: false
+---
+
 # Java Project: GettingStarted1
 
 **Description:** Some simple java exercises for getting accustomed to the Netbeans interface and simple java code.

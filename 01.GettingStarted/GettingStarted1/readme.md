@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # GettingStarted1
 
 [Documentation](../../docs/01.GettingStarted/GettingStarted1/)

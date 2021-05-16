@@ -1,3 +1,11 @@
+---
+layout: default
+title: GettingStarted4
+parent: 01.GettingStarted
+nav_order: 4
+has_children: false
+---
+
 # Java Project: Getting Started4
 
 **Description:** GettingStarted4: Simple Java execrise. Compute the area and cirumference of a circle and the area of a triangle. Also compute a Fahrenheit to Celsius temperature conversion table. Finally, use another for loop to print out list a of ASCII characters using their decimal code.
