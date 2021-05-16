@@ -1,3 +1,10 @@
+---
+layout: default
+title: Angelo State University Java Projects
+nav_order: 1
+has_children: false
+---
+
 # Angelo State University Java Projects
 
 [Check out the documentation](docs/)
