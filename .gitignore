@@ -25,3 +25,7 @@ hs_err_pid*
 .DS_STORE
 *.lst
 *.jar
+.classpath
+.project
+.prefs
+.netbeans_automatic_build
