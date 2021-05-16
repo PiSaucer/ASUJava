@@ -6,7 +6,7 @@
 
 **Netbeans** > new > project > java application > GettingStarted2
 
-**Type in code:**
+## Type in code:
 
 ```java
 /////////////////////////////////////////////////////////

@@ -39,6 +39,8 @@ public class GettingStarted1 {
 
 **Delete all the above code, replace it with the follow code:**
 
+## Type in code:
+
 ```java
 package asu.gettingstarted1;
 import java.util.Scanner;

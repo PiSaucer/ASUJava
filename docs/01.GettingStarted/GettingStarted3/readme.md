@@ -6,7 +6,7 @@
 
 **Netbeans** > new > project > java application > GettingStarted3
 
-**Type in code:**
+## Type in code:
 
 ```java
 package asu.gettingstarted3;
