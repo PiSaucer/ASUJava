@@ -1,6 +1,6 @@
 # PrintingIntegers
 
-[Documentation](../../docs/02.PrintingIntegers/)
+[Documentation](../docs/02.PrintingIntegers/)
 
 # Output
 ```txt
