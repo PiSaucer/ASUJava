@@ -1,7 +1,7 @@
 # Documentation 
 
 ## Free Downloads
-- [PDF](JavaProjects_compressed.pdf)
+- [PDF](JavaProjects.pdf)
 - [DOCX](JavaProjects.docx)
 - HTML
   - [Online](https://pisaucer.github.io/ASUJava/docs/htmlbook/)
