@@ -21,5 +21,3 @@
 - [06.Factorial](06.Factorial/)
 - [07.MultiplicationTables](07.MultiplicationTables/)
 - [08.PrimeNumbers](08.PrimeNumbers/)
-
-Thank You
