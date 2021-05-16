@@ -27,5 +27,5 @@ hs_err_pid*
 *.jar
 .classpath
 .project
-.prefs
+*.prefs
 .netbeans_automatic_build
