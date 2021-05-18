@@ -6,7 +6,7 @@
 - HTML
   - [Online](https://pisaucer.github.io/ASUJava/docs/htmlbook/)
   - [Download](javaprojectshtml.zip)
-- [JPG Pages](bookimages/)
+- [JPG Pages](https://github.com/PiSaucer/ASUJava/tree/main/docs/bookimages)
 
 ## Project Index
 - [01.GettingStarted](01.GettingStarted/)
