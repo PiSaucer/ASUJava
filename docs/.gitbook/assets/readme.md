@@ -1,10 +1,10 @@
-# GettingStarted1
+# Java Project: GettingStarted1
 
 **Description:** Some simple java exercises for getting accustomed to the Netbeans interface and simple java code.
 
 **Create** a new Netbeans Project, name it **GettingStarted1**
 
-**Netbeans** &gt; file &gt; new project &gt; choose project: java application `<next>` Project Name: GettingStarted `<finish>`
+**Netbeans** > file > new project > choose project: java application ```<next>``` Project Name: GettingStarted ```<finish>```
 
 **Your screen** will now look something like:
 
@@ -49,30 +49,30 @@ public class GettingStarted1 {
 
     public static void main(String[] args) {
         System.out.println("Hello World");
-
+        
         System.out.println("1 + 2 + 3");
         System.out.println(1 + 2 + 3);
         System.out.println("1" + 2 + 3);
         System.out.println(1 + "2" + 3);
         System.out.println(1 + 2 + "3");
         System.out.println(1 + 2 + 3);
-
+        
         System.out.println("a"+ "b" + "c");
-
+        
         int a = 89;
         System.out.println(a + "b" + "c");
-
+        
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the length");
         int length = input.nextInt();
         System.out.println("length = " + length);
         System.out.println("max integer = " + Integer.MAX_VALUE);
         System.out.println("max double = " + Double.MAX_VALUE);
-
+        
         String x = "hello";
         x = x + " there";
         System.out.println("x = " + x);
-
+        
         char z = 10036;
         for(int i = 40; i < 128; i++){
             System.out.println("Z = " + (char) i);
@@ -83,11 +83,10 @@ public class GettingStarted1 {
 }
 ```
 
-**After clicking the green "Run" arrow on the menu bar you should get an output that looks like the follow \(the computer will prompt you to enter a length → try 10\)**
+**After clicking the green "Run" arrow on the menu bar you should get an output that looks like the follow (the computer will prompt you to enter a length → try 10)**
 
 ## Sample Output:
-
-```text
+```txt
 Hello World
 1 + 2 + 3
 6
@@ -192,4 +191,3 @@ Z = }
 Z = ~
 Z = 
 ```
-
