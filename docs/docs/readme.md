@@ -4,8 +4,8 @@
 
 ## Installation
 
-* [How to Install Apache NetBeans 12.0](../installation/how-to-install-apache-netbeans-12.0.md)
 * [How to Install OpenJDK 11](../installation/how-to-install-openjdk-11.md)
+* [How to Install Apache NetBeans 12.0](../installation/how-to-install-apache-netbeans-12.0.md)
 
 ## Documentation
 
