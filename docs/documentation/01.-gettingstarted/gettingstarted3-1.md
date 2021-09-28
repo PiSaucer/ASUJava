@@ -81,5 +81,5 @@ public class GettingStarted3 {
 
 ## Sample Output:
 
-[![JavaProjects\_page-0008.jpg](../.gitbook/assets/JavaProjects_page-0008%20%281%29.jpg)](https://github.com/PiSaucer/ASUJava/tree/f942a9d8a05386943e7d1c396d26a881ba1c942d/docs/bookimages/JavaProjects_page-0008.jpg)
+[![JavaProjects\_page-0008.jpg](../../.gitbook/assets/JavaProjects_page-0008%20%281%29.jpg)](https://github.com/PiSaucer/ASUJava/tree/f942a9d8a05386943e7d1c396d26a881ba1c942d/docs/bookimages/JavaProjects_page-0008.jpg)
 
