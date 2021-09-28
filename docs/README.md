@@ -2,26 +2,26 @@
 
 ## Free Downloads
 
-* [PDF](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/JavaProjects.pdf)
-* [DOCX](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/JavaProjects.docx)
+* [PDF](https://github.com/PiSaucer/ASUJava/tree/main/docs/JavaProjects.pdf)
+* [DOCX](https://github.com/PiSaucer/ASUJava/tree/main/docs/JavaProjects.docx)
 * HTML
   * [Online](https://pisaucer.github.io/ASUJava/docs/htmlbook/)
-  * [Download](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/javaprojectshtml.zip)
+  * [Download](https://github.com/PiSaucer/ASUJava/tree/main/docs/javaprojectshtml.zip)
 * [JPG Pages](https://github.com/PiSaucer/ASUJava/tree/main/docs/bookimages)
 
 ## Project Index
 
-* [01.GettingStarted](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted)
-  * [GettingStarted1](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted1/README.md)
-  * [GettingStarted2](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted2/README.md)
-  * [GettingStarted3](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted3/README.md)
-  * [GettingStarted4](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted4/README.md)
-* [02.PrintingIntegers](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/02.PrintingIntegers)
-* [03.Population](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/03.Population)
-* [04.BinaryNumbers](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/04.BinaryNumbers)
-* [05.ASCII](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/05.ASCII)
-* [06.Factorial](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/06.Factorial)
-* [07.MultiplicationTables](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/07.MultiplicationTables)
-* [08.PrimeNumbers](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/08.PrimeNumbers)
-* [09.RandomCharacters](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/09.RandomCharacters)
+* [01.GettingStarted](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted)
+  * [GettingStarted1](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted1-1)
+  * [GettingStarted2](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted2-1)
+  * [GettingStarted3](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted3-1)
+  * [GettingStarted4](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted4-1)
+* [02.PrintingIntegers](https://pisaucer.gitbook.io/asu-java/v/main/02.printingintegers-1)
+* [03.Population](https://pisaucer.gitbook.io/asu-java/v/main/03.population-1)
+* [04.BinaryNumbers](https://pisaucer.gitbook.io/asu-java/v/main/04.binarynumbers-1)
+* [05.ASCII](https://pisaucer.gitbook.io/asu-java/v/main/05.ascii-1)
+* [06.Factorial](https://pisaucer.gitbook.io/asu-java/v/main/06.factorial-1)
+* [07.MultiplicationTables](https://pisaucer.gitbook.io/asu-java/v/main/07.multiplicationtables-1)
+* [08.PrimeNumbers](https://pisaucer.gitbook.io/asu-java/v/main/08.primenumbers-1)
+* [09.RandomCharacters](https://pisaucer.gitbook.io/asu-java/v/main/09.randomcharacters-1)
 
