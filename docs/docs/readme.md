@@ -13,7 +13,7 @@
   * [GettingStarted1](../documentation/01.gettingstarted/gettingstarted1.md)
   * [GettingStarted2](../documentation/01.gettingstarted/gettingstarted2.md)
   * [GettingStarted3](../documentation/01.gettingstarted/gettingstarted3.md)
-  * [GettingStarted4](../documentation/01.gettingstarted/getting-started4.md)
+  * [GettingStarted4](../documentation/01.gettingstarted/gettingstarted4.md)
 * [02. PrintingIntegers](../documentation/02.printingintegers.md)
 * [03. Population](../documentation/03.population.md)
 * [04. BinaryNumbers](../documentation/04.binarynumbers.md)
