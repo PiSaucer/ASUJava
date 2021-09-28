@@ -6,7 +6,7 @@ description: >-
 
 # GettingStarted3
 
-**Description:** GettingStarted3: This program prompts the user for a score \(0 - 100\) and then presents the associated letter grade.
+**Description:** This program prompts the user for a score \(0 - 100\) and then presents the associated letter grade.
 
 **Create** a new Netbeans Project, name it **GettingStartede**
 
