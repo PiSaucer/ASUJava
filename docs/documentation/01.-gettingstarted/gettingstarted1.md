@@ -1,3 +1,9 @@
+---
+description: >-
+  Some simple java exercises for getting accustomed to the Netbeans interface
+  and simple java code.
+---
+
 # GettingStarted1
 
 **Description:** Some simple java exercises for getting accustomed to the Netbeans interface and simple java code.
