@@ -1,3 +1,9 @@
+---
+description: >-
+  This program prompts the user for a score (0 - 100) and then presents the
+  associated letter grade.
+---
+
 # GettingStarted3
 
 **Description:** GettingStarted3: This program prompts the user for a score \(0 - 100\) and then presents the associated letter grade.

@@ -1,3 +1,7 @@
+---
+description: Some simple exercises to get started in Java programming.
+---
+
 # GettingStarted2
 
 **Description:** Some simple exercises to get started in Java programming.
