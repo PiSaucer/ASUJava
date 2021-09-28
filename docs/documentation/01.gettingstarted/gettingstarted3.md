@@ -81,3 +81,5 @@ public class GettingStarted3 {
 
 ## Sample Output:
 
+![Output](../../.gitbook/assets/JavaProjects_page-0008.jpg)
+
