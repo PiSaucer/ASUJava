@@ -1,27 +1,33 @@
 # Homepage
 
-## Free Downloads
+## Installation
 
-* [PDF](https://github.com/PiSaucer/ASUJava/tree/main/docs/JavaProjects.pdf)
+* [How to Install OpenJDK 11](installation/how-to-install-openjdk-11.md)
+* [How to Install Apache NetBeans 12.0](installation/how-to-install-apache-netbeans-12.0.md)
+
+## Documentation 
+
+* [01. GettingStarted](documentation/01.gettingstarted/)
+  * [GettingStarted1](documentation/01.gettingstarted/gettingstarted1.md)
+  * [GettingStarted2](documentation/01.gettingstarted/gettingstarted2.md)
+  * [GettingStarted3](documentation/01.gettingstarted/gettingstarted3.md)
+  * [GettingStarted4](documentation/01.gettingstarted/gettingstarted4.md)
+* [02. PrintingIntegers](documentation/02.printingintegers.md)
+* [03. Population](documentation/03.population.md)
+* [04. BinaryNumbers](documentation/04.binarynumbers.md)
+* [05. ASCII](documentation/05.ascii.md)
+* [06. Factorial](documentation/06.factorial.md)
+* [07. MultiplicationTables](documentation/07.multiplicationtables.md)
+* [08. PrimeNumbers](documentation/08.primenumbers.md)
+* [09. RandomCharacters](documentation/09.randomcharacters.md)
+
+## Free Resources
+
+{% file src=".gitbook/assets/javaprojects.pdf" caption="PDF" %}
+
 * [DOCX](https://github.com/PiSaucer/ASUJava/tree/main/docs/JavaProjects.docx)
 * HTML
   * [Online](https://pisaucer.github.io/ASUJava/docs/htmlbook/)
   * [Download](https://github.com/PiSaucer/ASUJava/tree/main/docs/javaprojectshtml.zip)
 * [JPG Pages](https://github.com/PiSaucer/ASUJava/tree/main/docs/bookimages)
-
-## Project Index
-
-* [01.GettingStarted](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted)
-  * [GettingStarted1](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted1-1)
-  * [GettingStarted2](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted2-1)
-  * [GettingStarted3](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted3-1)
-  * [GettingStarted4](https://pisaucer.gitbook.io/asu-java/v/main/01.-gettingstarted/gettingstarted4-1)
-* [02.PrintingIntegers](https://pisaucer.gitbook.io/asu-java/v/main/02.printingintegers-1)
-* [03.Population](https://pisaucer.gitbook.io/asu-java/v/main/03.population-1)
-* [04.BinaryNumbers](https://pisaucer.gitbook.io/asu-java/v/main/04.binarynumbers-1)
-* [05.ASCII](https://pisaucer.gitbook.io/asu-java/v/main/05.ascii-1)
-* [06.Factorial](https://pisaucer.gitbook.io/asu-java/v/main/06.factorial-1)
-* [07.MultiplicationTables](https://pisaucer.gitbook.io/asu-java/v/main/07.multiplicationtables-1)
-* [08.PrimeNumbers](https://pisaucer.gitbook.io/asu-java/v/main/08.primenumbers-1)
-* [09.RandomCharacters](https://pisaucer.gitbook.io/asu-java/v/main/09.randomcharacters-1)
 
