@@ -1,7 +1,5 @@
 # Angelo State University Java Projects
 
-[Check out the documentation](docs/)
-
 [Check out the GitBook](https://pisaucer.gitbook.io/asu-java/v/main/)
 
 # Copyright
