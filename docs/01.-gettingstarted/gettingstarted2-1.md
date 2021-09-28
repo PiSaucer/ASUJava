@@ -1,4 +1,4 @@
-# Java Project: GettingStarted2
+# GettingStarted2
 
 **Description:** Some simple exercises to get started in Java programming.
 

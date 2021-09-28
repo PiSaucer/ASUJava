@@ -2,26 +2,26 @@
 
 ## Free Downloads
 
-* [PDF](JavaProjects.pdf)
-* [DOCX](JavaProjects.docx)
+* [PDF](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/JavaProjects.pdf)
+* [DOCX](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/JavaProjects.docx)
 * HTML
   * [Online](https://pisaucer.github.io/ASUJava/docs/htmlbook/)
-  * [Download](javaprojectshtml.zip)
+  * [Download](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/javaprojectshtml.zip)
 * [JPG Pages](https://github.com/PiSaucer/ASUJava/tree/main/docs/bookimages)
 
 ## Project Index
 
-* [01.GettingStarted](01.GettingStarted/)
-  * [GettingStarted1](01.GettingStarted/GettingStarted1/)
-  * [GettingStarted2](01.GettingStarted/GettingStarted2/)
-  * [GettingStarted3](01.GettingStarted/GettingStarted3/)
-  * [GettingStarted4](01.GettingStarted/GettingStarted4/)
-* [02.PrintingIntegers](02.PrintingIntegers/)
-* [03.Population](03.Population/)
-* [04.BinaryNumbers](04.BinaryNumbers/)
-* [05.ASCII](05.ASCII/)
-* [06.Factorial](06.Factorial/)
-* [07.MultiplicationTables](07.MultiplicationTables/)
-* [08.PrimeNumbers](08.PrimeNumbers/)
-* [09.RandomCharacters](09.RandomCharacters/)
+* [01.GettingStarted](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted)
+  * [GettingStarted1](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted1/README.md)
+  * [GettingStarted2](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted2/README.md)
+  * [GettingStarted3](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted3/README.md)
+  * [GettingStarted4](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/01.GettingStarted/GettingStarted4/README.md)
+* [02.PrintingIntegers](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/02.PrintingIntegers)
+* [03.Population](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/03.Population)
+* [04.BinaryNumbers](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/04.BinaryNumbers)
+* [05.ASCII](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/05.ASCII)
+* [06.Factorial](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/06.Factorial)
+* [07.MultiplicationTables](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/07.MultiplicationTables)
+* [08.PrimeNumbers](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/08.PrimeNumbers)
+* [09.RandomCharacters](https://github.com/PiSaucer/ASUJava/tree/ea0487e343dc51ed20b0a4cc806f6ead03cfcb08/docs/09.RandomCharacters)
 

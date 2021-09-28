@@ -1,4 +1,4 @@
-# Java Project: GettingStarted3
+# GettingStarted3
 
 **Description:** GettingStarted3: This program prompts the user for a score \(0 - 100\) and then presents the associated letter grade.
 
@@ -75,5 +75,5 @@ public class GettingStarted3 {
 
 ## Sample Output:
 
-[![JavaProjects\_page-0008.jpg](../../.gitbook/assets/JavaProjects_page-0008.jpg)](https://github.com/PiSaucer/ASUJava/tree/f942a9d8a05386943e7d1c396d26a881ba1c942d/docs/bookimages/JavaProjects_page-0008.jpg)
+[![JavaProjects\_page-0008.jpg](../.gitbook/assets/JavaProjects_page-0008%20%281%29.jpg)](https://github.com/PiSaucer/ASUJava/tree/f942a9d8a05386943e7d1c396d26a881ba1c942d/docs/bookimages/JavaProjects_page-0008.jpg)
 
