@@ -15,7 +15,7 @@
   * [GettingStarted3](../documentation/01.-gettingstarted/gettingstarted3-1.md)
   * [Getting Started4](../documentation/01.-gettingstarted/gettingstarted4-1.md)
 * [02. PrintingIntergers](../documentation/02.printingintegers-1.md)
-* [0.3 Population](../documentation/03.population-1.md)
+* [03. Population](../documentation/03.population-1.md)
 * [04. BinaryNumbers](../documentation/04.binarynumbers-1.md)
 * [05. ASCII](../documentation/05.ascii-1.md)
 * [06. Factorial](../documentation/06.factorial-1.md)
