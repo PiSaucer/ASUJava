@@ -24,4 +24,5 @@
 * [09. RandomCharacters](09.randomcharacters.md)
 * [10. GCD](10.gcd.md)
 * [11. MathQuiz](11.mathquiz.md)
+* [12. Encryption](12.-encryption.md)
 
