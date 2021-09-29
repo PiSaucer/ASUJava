@@ -20,14 +20,14 @@
 * [07. MultiplicationTables](documentation/07.multiplicationtables.md)
 * [08. PrimeNumbers](documentation/08.primenumbers.md)
 * [09. RandomCharacters](documentation/09.randomcharacters.md)
+* [10. GCD](documentation/10.gcd.md)
+* [11. MathQuiz](documentation/11.mathquiz.md)
 
 ## Free Resources
 
 {% file src=".gitbook/assets/javaprojects.pdf" caption="PDF" %}
 
-* [DOCX](https://github.com/PiSaucer/ASUJava/tree/main/docs/JavaProjects.docx)
-* HTML
-  * [Online](https://pisaucer.github.io/ASUJava/docs/htmlbook/)
-  * [Download](https://github.com/PiSaucer/ASUJava/tree/main/docs/javaprojectshtml.zip)
-* [JPG Pages](https://github.com/PiSaucer/ASUJava/tree/main/docs/bookimages)
+* [DOCX](https://github.com/PiSaucer/ASUJava/raw/main/docs/assets/JavaProjects.docx)
+* [HTML Download](https://github.com/PiSaucer/ASUJava/raw/main/docs/assets/javaprojectshtml.zip)
+* [JPG Pages](https://github.com/PiSaucer/ASUJava/tree/main/docs/assets/bookimages)
 
