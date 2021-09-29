@@ -23,4 +23,5 @@
 * [08. PrimeNumbers](../documentation/08.primenumbers.md)
 * [09. RandomCharacters](../documentation/09.randomcharacters.md)
 * [10. GCD](../documentation/10.gcd.md)
+* [11. MathQuiz](../documentation/11.-mathquiz.md)
 
