@@ -27,7 +27,9 @@
 
 {% file src=".gitbook/assets/javaprojects.pdf" caption="PDF" %}
 
-* [DOCX](https://github.com/PiSaucer/ASUJava/raw/main/docs/assets/JavaProjects.docx)
-* [HTML Download](https://github.com/PiSaucer/ASUJava/raw/main/docs/assets/javaprojectshtml.zip)
-* [JPG Pages](https://github.com/PiSaucer/ASUJava/tree/main/docs/assets/bookimages)
+{% file src=".gitbook/assets/javaprojects.docx" caption="DOCX" %}
+
+{% file src=".gitbook/assets/javaprojectshtml.zip" caption="HTML Download" %}
+
+
 
