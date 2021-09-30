@@ -25,5 +25,5 @@
 * [10. GCD](10.gcd.md)
 * [11. MathQuiz](11.mathquiz.md)
 * [12. Encryption](12.encryption.md)
-* [13. InsertionSort](13.-insertionsort.md)
+* [13. InsertionSort](13.insertionsort.md)
 
