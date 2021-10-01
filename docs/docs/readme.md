@@ -27,4 +27,5 @@
 * [12. Encryption](12.encryption.md)
 * [13. InsertionSort](13.insertionsort.md)
 * [14. CardGame](14.cardgame.md)
+* [15. QuadraticEquations](15.quadraticequations.md)
 
