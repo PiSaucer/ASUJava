@@ -27,6 +27,7 @@
 * [14. CardGame](docs/14.cardgame.md)
 * [15. QuadraticEquations](docs/15.quadraticequations.md)
 * [16. Scramble](docs/16.scramble.md)
+* [17. Permutations](docs/17.permutations.md)
 
 ## Free Resources
 

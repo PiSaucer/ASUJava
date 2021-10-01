@@ -29,4 +29,5 @@
 * [14. CardGame](14.cardgame.md)
 * [15. QuadraticEquations](15.quadraticequations.md)
 * [16. Scramble](16.scramble.md)
+* [17. Permutations](17.permutations.md)
 
