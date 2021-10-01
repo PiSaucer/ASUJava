@@ -28,6 +28,7 @@
 * [15. QuadraticEquations](docs/15.quadraticequations.md)
 * [16. Scramble](docs/16.scramble.md)
 * [17. Permutations](docs/17.permutations.md)
+* [18. NumberGuessingGame](docs/18.numberguessinggame.md)
 
 ## Free Resources
 
