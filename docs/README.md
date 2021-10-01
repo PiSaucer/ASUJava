@@ -22,6 +22,10 @@
 * [09. RandomCharacters](docs/09.randomcharacters.md)
 * [10. GCD](docs/10.gcd.md)
 * [11. MathQuiz](docs/11.mathquiz.md)
+* [12. Encryption](docs/12.encryption.md)
+* [13. InsertionSort](docs/13.insertionsort.md)
+* [14. CardGame](docs/14.cardgame.md)
+* [15. QuadraticEquations](docs/15.quadraticequations.md)
 
 ## Free Resources
 
