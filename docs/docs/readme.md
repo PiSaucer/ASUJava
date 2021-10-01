@@ -28,4 +28,5 @@
 * [13. InsertionSort](13.insertionsort.md)
 * [14. CardGame](14.cardgame.md)
 * [15. QuadraticEquations](15.quadraticequations.md)
+* [16. Scramble](16.scramble.md)
 
